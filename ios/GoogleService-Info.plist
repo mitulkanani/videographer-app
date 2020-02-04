@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641095023075-9p165o2767kk794nqlpkludqn62hndfe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641095023075-9p165o2767kk794nqlpkludqn62hndfe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPLtbG4fjXGNX1iTLzfHbOTEtAKPrzM74</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641095023075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kilovision</string>
+	<key>PROJECT_ID</key>
+	<string>kilovision-519e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kilovision-519e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641095023075:ios:504e0a065393f9e3fd08d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://kilovision-519e2.firebaseio.com</string>
+</dict>
+</plist>

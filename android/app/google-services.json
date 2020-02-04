@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641095023075",
+    "firebase_url": "https://kilovision-519e2.firebaseio.com",
+    "project_id": "kilovision-519e2",
+    "storage_bucket": "kilovision-519e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641095023075:android:200b8b22a53e35f8fd08d6",
+        "android_client_info": {
+          "package_name": "com.awesomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641095023075-0trql5vjmu0mqbjg2d7pshf3cpomimp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkLRMMZDlIWNtP8D4It5cICLWsW_NvFbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641095023075-0trql5vjmu0mqbjg2d7pshf3cpomimp7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641095023075-9p165o2767kk794nqlpkludqn62hndfe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kilovision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

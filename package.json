@@ -1,0 +1,48 @@
+{
+  "name": "AwesomeApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "ios": "react-native run-ios --simulator='iPhone 8'",
+    "android": "react-native run-android",
+    "postinstall": "react-native link",
+    "jetify": "npx jetify"
+  },
+  "dependencies": {
+    "@eva-design/eva": "^1.2.0",
+    "@react-native-community/async-storage": "^1.6.2",
+    "@react-native-community/google-signin": "^3.0.0",
+    "@ui-kitten/eva-icons": "^4.2.0",
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-fbsdk": "^1.0.4",
+    "react-native-firebase": "5.5.6",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-reanimated": "^1.3.0",
+    "react-native-restart": "0.0.13",
+    "react-native-screens": "^1.0.0-alpha.23",
+    "react-native-snap-carousel": "^3.8.1",
+    "react-native-svg": "^9.9.4",
+    "react-native-ui-kitten": "4.3.0-beta.1",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.2.2",
+    "react-navigation-stack": "^1.9.3",
+    "react-navigation-tabs": "^2.5.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
+    "@react-native-community/eslint-config": "^0.0.3",
+    "jetifier": "^1.6.4",
+    "metro-react-native-babel-preset": "0.54.1"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}
